@@ -1,0 +1,49 @@
+﻿  main.cpp
+C:\Users\Я\Desktop\DJ\DJ\main.cpp(106,34): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Я\Desktop\DJ\DJ\main.cpp(107,1): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\Я\Desktop\DJ\DJ\main.cpp(127,47): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Я\Desktop\DJ\DJ\main.cpp(127,30): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Я\Desktop\DJ\DJ\main.cpp(128,29): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Я\Desktop\DJ\DJ\main.cpp(128,16): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Я\Desktop\DJ\DJ\main.cpp(322,30): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Я\Desktop\DJ\DJ\main.cpp(348,23): warning C4244: инициализация: преобразование "T" в "float", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+C:\Users\Я\Desktop\DJ\DJ\main.cpp(370,23): warning C4244: инициализация: преобразование "T" в "float", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+C:\Users\Я\Desktop\DJ\DJ\main.cpp(382,23): warning C4244: инициализация: преобразование "T" в "float", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+C:\Users\Я\Desktop\DJ\DJ\main.cpp(426,23): warning C4244: инициализация: преобразование "T" в "float", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+C:\Users\Я\Desktop\DJ\DJ\main.cpp(470,23): warning C4244: инициализация: преобразование "T" в "float", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+C:\Users\Я\Desktop\DJ\DJ\main.cpp(652,22): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Я\Desktop\DJ\DJ\main.cpp(655,22): warning C4244: аргумент: преобразование "T" в "float", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+C:\Users\Я\Desktop\DJ\DJ\main.cpp(662,34): warning C4244: =: преобразование "const T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Я\Desktop\DJ\DJ\main.cpp(717,17): warning C4305: +=: усечение из "double" в "float"
+C:\Users\Я\Desktop\DJ\DJ\main.cpp(754,35): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Я\Desktop\DJ\DJ\main.cpp(786,35): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Я\Desktop\DJ\DJ\main.cpp(847,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  DJ.vcxproj -> C:\Users\Я\Desktop\DJ\x64\Debug\DJ.exe
